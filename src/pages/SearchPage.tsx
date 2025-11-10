@@ -1,4 +1,4 @@
-import { useSelector, useDispatch } from 'react-redux';
+import { useSelector } from 'react-redux';
 import { RootState } from '../redux/store';
 import SearchBar from '../components/SearchBar';
 import AnimeCard from '../components/AnimeCard';
