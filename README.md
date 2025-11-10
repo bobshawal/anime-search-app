@@ -4,6 +4,12 @@ A responsive React + TypeScript application that allows users to search for anim
 
 ---
 
+## 🚀 Live Demo
+
+🔗 [https://glistening-macaron-709c9e.netlify.app/](https://glistening-macaron-709c9e.netlify.app/)
+
+---
+
 ## 🛠️ Tech Stack
 
 - React 18 (Hooks only)
